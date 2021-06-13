@@ -16,7 +16,8 @@ https://public.tableau.com/shared/SXBTHMYZ5?:display_count=n&:origin=viz_share_l
 
 ![image](https://user-images.githubusercontent.com/78937719/121799552-67dd1b80-cbf2-11eb-8d51-df7c4573efee.png)
 
-- Based on the illustrations above, a majority of the customers will be males who subscribe to the bike-sharing program to use on a regular basis.  Males make up more than 60% of the customer base while Subscribers make up 75% of the customers versus non subscribers.
+- Based on the illustrations above, a majority of the customers will be males who subscribe to the bike-sharing program to use on a regular basis.  
+- Males make up more than 60% of the customer base while Subscribers make up 75% of the customers versus non subscribers.
 
 
 ### Where will customers use the bikes?
