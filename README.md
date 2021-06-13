@@ -1,12 +1,27 @@
 # Bikesharing with NYC CitiBike Data Analysis
 
 ## Project Overview
-This project is an analysis of New York City CitiBike data using data visualization tools to explore how to deploy a bike-sharing company in Des Moine, Iowa.
+This project is an analysis of New York City CitiBike data using data visualization tools to explore how to deploy a bike-sharing program in Des Moine, Iowa.  The analysis of New York City's CitiBike data will give an idea of what type of customers will be using the bike-sharing program, when they will be using them, and where.
 
 ## Results
 
 Deployed Tableu Analysis
 
 https://public.tableau.com/shared/SXBTHMYZ5?:display_count=n&:origin=viz_share_link
+
+
+### Who would be using the bike-sharing program?
+
+![image](https://user-images.githubusercontent.com/78937719/121799522-42501200-cbf2-11eb-900a-d68af072123b.png)
+
+![image](https://user-images.githubusercontent.com/78937719/121799552-67dd1b80-cbf2-11eb-8d51-df7c4573efee.png)
+
+
+
+### Where will customers use the bikes?
+
+
+### What days and what times will customemrs use the bikes?
+
 
 
