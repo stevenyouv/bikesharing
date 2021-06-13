@@ -26,7 +26,7 @@ https://public.tableau.com/shared/SXBTHMYZ5?:display_count=n&:origin=viz_share_l
 - The highest usage of the CitiBikes is in highly populated urban areas in Manhattan.
 
 
-### What days and what times will customemrs use the bikes?
+### What days and what times will customers use the bikes?
 
 ![image](https://user-images.githubusercontent.com/78937719/121799778-99a2b200-cbf3-11eb-9700-5efc9763b655.png)
 
@@ -34,6 +34,20 @@ https://public.tableau.com/shared/SXBTHMYZ5?:display_count=n&:origin=viz_share_l
 
 - Highest usage times during the week are between 8:00am-9:00am and 4:00pm-7:00pm, and during 9:00am-7:00pm on weekends
 - Highest usage days are Monday through Friday
+
+## Summary
+- The data clearly shows that the highest usage of the bike-sharing service during the month of August occurs Monday through Friday during rush hour suggesting that the bike-sharing program in New York City is being used as an alternative mode of public transportation for commuting workers.
+
+- The data also suggests that a majority of the customers who utilize the program are males who subscribe to the program to use the bikes on a regular basis.
+
+- While most of the usage throughout the week occurs during commuting hours, the data also shows that there is healthy usage all throughout the day on weekends suggesting that the CitiBikes are also being used by visiting tourists to get around and explore the city.
+
+### Additional Analysis Suggested
+
+ - Compare data to other months of the year to uncover addtional trends and potential to reach more customers
+ - Include monthly weather data to see the effects of weather on bike-share usage
+
+
 
 
 
