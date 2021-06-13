@@ -5,7 +5,6 @@ This project is an analysis of New York City CitiBike data using data visualizat
 
 ## Results
 
-Deployed Tableu Analysis
-https://public.tableau.com/views/NYCCitiBikeAnalysis_16235651449050/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+Deployed Tableu Analysishttps://public.tableau.com/shared/SXBTHMYZ5?:display_count=n&:origin=viz_share_link
 
 
