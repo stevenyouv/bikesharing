@@ -28,5 +28,16 @@ https://public.tableau.com/shared/SXBTHMYZ5?:display_count=n&:origin=viz_share_l
 
 ### What days and what times will customemrs use the bikes?
 
+![image](https://user-images.githubusercontent.com/78937719/121799778-99a2b200-cbf3-11eb-9700-5efc9763b655.png)
+
+![image](https://user-images.githubusercontent.com/78937719/121799809-c951ba00-cbf3-11eb-831e-5ec092c9d4b0.png)
+
+- Highest usage times during the week are between 8:00am-9:00am and 4:00pm-7:00pm, and during 9:00am-7:00pm on weekends
+- Highest usage days are Monday through Friday
+
+
+
+
+
 
 
